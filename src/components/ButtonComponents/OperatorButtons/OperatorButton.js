@@ -2,7 +2,7 @@ import React from "react";
 
 const OperatorButton = ({ope}) => {
   return (
-    <button> {ope.char} </button>
+    <button className = "operator-button"> {ope.char} </button>
   );
 };
 
