@@ -23,7 +23,7 @@ function App() {
     <div className="container">
       <Logo />
       <div className="App">
-        <Display />
+        <Display props = {0} />
         <div className= "button-container">
           <div className ="specials-container">
             <Specials /> 

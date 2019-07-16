@@ -9,6 +9,10 @@
     margin-left: 2%;
 }
 
+.logo{
+    margin-top: 20px;
+}
+
 .display{
     width: 95%;
     background-color: black;
@@ -17,6 +21,9 @@
     margin-top:20px;
     border-radius: 40px;
     color: white;
+    font-size: 50px;
+    padding: auto;
+    text-align: end;
 }
 
 button {
