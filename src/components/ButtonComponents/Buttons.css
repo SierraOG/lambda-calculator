@@ -1,0 +1,51 @@
+
+button {
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    color: white;
+    margin: 65px;
+    font-size: 50px;
+}
+
+.specials-container {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    width: 700px;
+}
+
+.numbers-container {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    width: 700px;
+}
+
+.number-button{
+    background-color: darkslateblue;
+}
+
+.special-button{
+    background-color: cornflowerblue;
+}
+
+.operator-button{
+    background-color: aqua;
+}
+
+.operator-container{
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-right: 150px;
+    position: relative;
+    top: -1150px;
+}
+
+.number-button.zero{
+    width: 325px;
+}
